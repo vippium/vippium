@@ -30,13 +30,15 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vippium&show_icons=true&locale=en&layout=compact" alt="vippium" /></p>
+## 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vippium&show_icons=true&locale=en&layout=compact" alt="vippium" width="400" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&locale=en" alt="vippium" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vippium&" alt="vippium" width="475" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vippium&" alt="vippium" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&locale=en" alt="vippium" width="400" /></p>
 
-<!-- GitHub contribution graph snake animation -->
+
+<br />
 
 <!-- GitHub contribution graph snake animation -->
 
@@ -44,3 +46,4 @@
   <source srcset="https://github.com/vippium/vippium/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
   <img src="https://github.com/vippium/vippium/blob/output/github-snake.svg" alt="GitHub Contribution Snake" />
 </picture>
+
