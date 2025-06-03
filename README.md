@@ -30,7 +30,7 @@
 
 <br />
 
-## 📈 Contribution Stats:
+## 📈 Contribution Stats
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vippium&" alt="vippium" width="420" /></p>
