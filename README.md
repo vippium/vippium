@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vippium&label=Profile%20views&color=FFA500&style=flat" alt="vippium" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vippium" alt="vippium" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vippium&theme=default&no-frame=true&no-bg=true&margin-w=4)" /> </p>
 
 - 🌱 I’m currently learning **Typescript, ReactJS, and NestJS.**
 
