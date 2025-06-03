@@ -31,11 +31,14 @@
 <br />
 
 ## 📈 Contribution Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vippium&show_icons=true&locale=en&layout=compact" alt="vippium" width="400" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vippium&" alt="vippium" width="400" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vippium&" alt="vippium" width="420" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&locale=en" alt="vippium" width="400" /></p>
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vippium&theme=vue" alt="vippium's GitHub Profile Summary Card" />
+</p>
 
 
 <br />
@@ -46,4 +49,5 @@
   <source srcset="https://github.com/vippium/vippium/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
   <img src="https://github.com/vippium/vippium/blob/output/github-snake.svg" alt="GitHub Contribution Snake" />
 </picture>
+
 
