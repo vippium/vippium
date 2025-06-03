@@ -36,7 +36,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vippium&" alt="vippium" width="420" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&locale=en" alt="vippium" width="400" /></p>
-<p align="left">
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vippium&theme=vue" alt="vippium's GitHub Profile Summary Card" />
 </p>
 
