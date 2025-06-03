@@ -30,7 +30,7 @@
 
 <br />
 
-## 📊 GitHub Stats:
+## 📈 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vippium&show_icons=true&locale=en&layout=compact" alt="vippium" width="400" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vippium&" alt="vippium" width="475" /></p>
