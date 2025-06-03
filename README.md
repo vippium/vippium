@@ -16,7 +16,7 @@
   <a href="https://github.com/vippium" target="_blank" style="margin-right: 15px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="30" />
   </a> &nbsp;
-  <a href="https://instagram.com/your_instagram_username" target="_blank">
+  <a href="https://instagram.com/vip.in_jpr_sanganer" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
 </p>
