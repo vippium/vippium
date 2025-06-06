@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vippium&label=Profile%20views&color=FFA500&style=flat" alt="vippium" /> </p>
 
 <h1 align="center">Hi 👋, I'm Vipin Prajapat.</h1>
-<h3 align="center">A passionate learner.</h3>
+<h3 align="center">A Passionate Learner.</h3>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vippium&theme=default&no-frame=true&no-bg=true&margin-w=4)" /> </p>
 
