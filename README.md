@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vipin Prajapat.</h1>
 <h3 align="center">A Passionate Learner.</h3>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vippium&theme=default&no-frame=true&no-bg=true&margin-w=4)" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vippium&theme=default&no-frame=true&no-bg=true&margin-w=8)" /> </p>
 
 - 🌱 I’m currently learning **Typescript, ReactJS, and NestJS.**
 
