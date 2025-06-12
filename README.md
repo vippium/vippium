@@ -33,9 +33,9 @@
 ## 📈 Contribution Stats
 
 
-<p style="padding-left: 20px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vippium&" alt="vippium" width="420" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vippium&" alt="vippium" width="420" /></p>
 
-<p style="padding-right: 20px;"><img src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&locale=en" alt="vippium" width="400" /></p>
+<p><img aign="center" src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&locale=en" alt="vippium" width="400" /></p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vippium&title_color=000000&color=8A3324&height=400&custom_title=Mini%20Contribution%20Summary&point=8a3324&radius=16&days=15&bg_color=transparent&hide_border=false&area=true&area_color=ff6e00&line=ff5b00&order=2" height="250" alt="activity-graph" />
 </p>
