@@ -37,7 +37,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&locale=en" alt="vippium" width="400" /></p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vippium&theme=vue" alt="vippium's GitHub Profile Summary Card" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vippium&title_color=000000&color=8A3324&height=400&custom_title=Mini%20Contribution%20Summary&point=8a3324&radius=16&days=15&bg_color=transparent&hide_border=false&area=true&area_color=ff6e00&line=ff5b00&order=2" height="230" alt="activity-graph" />
 </p>
 
 
