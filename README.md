@@ -33,23 +33,21 @@
 ## 📈 Contribution Stats
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vippium&" alt="vippium" width="420" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vippium&" alt="vippium" width="420" /></p>
 
-<p><img aign="center" src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&locale=en" alt="vippium" width="400" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&locale=en" alt="vippium" width="400" /></p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vippium&title_color=000000&color=8A3324&height=400&custom_title=Mini%20Contribution%20Summary&point=8a3324&radius=16&days=15&bg_color=transparent&hide_border=false&area=true&area_color=ff6e00&line=ff5b00&order=2" height="250" alt="activity-graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vippium&theme=vue" alt="vippium's GitHub Profile Summary Card" />
 </p>
-
-
 
 
 <br />
 
 <!-- GitHub contribution graph snake animation -->
 
-<div align="center">
+<picture>
   <source srcset="https://github.com/vippium/vippium/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
   <img src="https://github.com/vippium/vippium/blob/output/github-snake.svg" alt="GitHub Contribution Snake" />
-</div>
+</picture>
 
-,
+
