@@ -32,10 +32,14 @@
 
 ## 📈 Contribution Stats
 
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=vippium&theme=shadow-orange&border=e5e2e2" alt="Vippium's Streak Chart" width="423"/>
+</p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=vippium&border=true&background=00000000&ring=ff6e00&fire=d16002&currStreakLabel=cc5500&sideNums=000000&sideLabels=000000&dates=000000&stroke=8a3324&date_format=M%20j%5B%2C%20Y%5D" alt="vippium's GitHub streak" width="423" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=default&custom_title=🔥%20My%20GitHub%20Stats&hide_border=false&title_color=d16002&text_color=00000&bg_color=00000000&&icon_color=8a3324" alt="vippium" width="400" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=default&custom_title=🔥%20My%20GitHub%20Stats&hide_border=false&title_color=d16002&text_color=00000&bg_color=00000000&&icon_color=8a3324" alt="vippium" width="400" /></p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vippium&title_color=000000&color=8A3324&height=400&custom_title=Mini%20Contribution%20Summary&point=8a3324&radius=16&days=15&bg_color=transparent&hide_border=false&area=true&area_color=ff6e00&line=ff5b00&order=2" height="230" alt="activity-graph" />
 </p>
