@@ -49,9 +49,7 @@
 
 <!-- GitHub contribution graph snake animation -->
 
-<picture>
-  <source srcset="https://github.com/vippium/vippium/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
-  <img src="https://github.com/vippium/vippium/blob/output/github-snake.svg" alt="GitHub Contribution Snake" />
-</picture>
-
+<p align="center">
+  <img src="https://github.com/vippium/vippium/blob/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
