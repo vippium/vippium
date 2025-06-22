@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vippium&label=Profile%20Views%20Count&color=FFA500&style=flat" alt="vippium" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vippium&label=Profile%20Views%20Count&color=FFA500&style=for-the-badge&abbreviated=true" alt="vippium" /> </p>
 
 <h1 align="center">Hi 👋, I'm Vipin Prajapat.</h1>
 <h3 align="center">A Passionate Learner.</h3>
