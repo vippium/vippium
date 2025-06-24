@@ -33,7 +33,7 @@
 ## 📈 Contribution Stats
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=vippium&theme=shadow-orange&border=e5e2e2" alt="Vippium's Streak Chart" width="423"/>
+  <img align="left" src="https://github-readme-streak-stats-eight.vercel.app/?user=vippium&theme=shadow-orange&border=e5e2e2&disable_animations=true" alt="Vippium's Streak Chart" width="423"/>
 </p>
 
 <p>
