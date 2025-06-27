@@ -25,7 +25,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=c,html,css,python,js,ts,nodejs,git,vscode,jupyter,googlecolaboratory&radius=80" alt="skill-icons" />
+  <img src="https://skills.syvixor.com/api/icons?i=c,html,css3,python,js,ts,nodejs,npm,git,vscode,jupyter,googlecolaboratory,postman&radius=85" alt="skill-icons" />
 </p>
 
 <br />
@@ -33,7 +33,7 @@
 ## 📈 Contribution Stats
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=vippium&theme=shadow-orange&border=e5e2e2" alt="Vippium's Streak Chart" width="423"/>
+  <img align="left" src="https://github-readme-streak-stats-eight.vercel.app/?user=vippium&theme=shadow-orange&border=e5e2e2&disable_animations=true" alt="Vippium's Streak Chart" width="423"/>
 </p>
 
 <p>
