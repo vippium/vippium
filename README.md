@@ -43,15 +43,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vippium&title_color=000000&color=8A3324&height=400&custom_title=Mini%20Contribution%20Summary&point=8a3324&radius=16&days=15&bg_color=transparent&hide_border=false&area=true&area_color=ff6e00&line=ff5b00&order=2" height="230" alt="activity-graph" />
 </p>
-
-
-<br />
-
-<!-- GitHub contribution graph snake animation -->
-
-<picture>
-  <source srcset="https://github.com/vippium/vippium/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
-  <img src="https://github.com/vippium/vippium/blob/output/github-snake.svg" alt="GitHub Contribution Snake" />
-</picture>
-
-
