@@ -25,7 +25,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=c,html,css,python,js,ts,nodejs,git,vscode,jupyter,googlecolaboratory&radius=80" alt="skill-icons" />
+  <img src="https://skills.syvixor.com/api/icons?i=c,html,css3,python,js,ts,nodejs,npm,git,vscode,jupyter,googlecolaboratory,postman&radius=85" alt="skill-icons" />
 </p>
 
 <br />
