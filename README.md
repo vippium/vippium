@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vippium&theme=default&no-frame=true&no-bg=true&margin-w=8)" /> </p>
 
-- 🌱 I’m currently learning **Typescript, ReactJS, and NestJS.**
+- 🌱 I’m currently learning **ReactJS.**
 
 ## 🤝 Connect with Me
 
@@ -25,7 +25,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=c,html,css3,python,js,ts,nodejs,npm,git,vscode,jupyter,googlecolaboratory,postman&radius=85" alt="skill-icons" />
+  <img src="https://skills.syvixor.com/api/icons?i=c,html,css3,python,js,nodejs,npm,git,vscode,jupyter,googlecolaboratory,postman&radius=85" alt="skill-icons" />
 </p>
 
 <br />
