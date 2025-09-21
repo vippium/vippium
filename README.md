@@ -32,9 +32,8 @@
 
 ## 📈 Contribution Stats
 
-<p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vippium&theme=blood&border_radius=10&card_width=403&background=EB545400&dates=747474&ring=BB0223&currStreakNum=FFFFFF&sideNums=B2B2B2&currStreakLabel=BB0223&sideLabels=BB0223&fire=FF7D7D" alt="GitHub Streak" /></a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vippium&theme=blood-dark&border_radius=10&card_width=403&fire=FFCA77&background=EB545400&currStreakNum=EFEFEF&ring=BB0223&sideNums=B2B2B2)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vippium&theme=blood&border_radius=10&card_width=403&fire=B67522&currStreakNum=000000&sideNums=1C0A0ADC&ring=FF0330&sideLabels=E12A2A)](https://git.io/streak-stats#gh-light-mode-only)
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=default&custom_title=🔥%20My%20GitHub%20Stats&hide_border=false&title_color=d16002&text_color=00000&bg_color=00000000&&icon_color=8a3324" alt="vippium" width="400" />
