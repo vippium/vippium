@@ -36,7 +36,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vippium&theme=blood&border_radius=10&card_width=390&fire=B67522&currStreakNum=000000&sideNums=1C0A0ADC&ring=FF0330&sideLabels=E12A2A)](https://git.io/streak-stats#gh-light-mode-only)
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=default&custom_title=🔥%20My%20GitHub%20Stats&hide_border=false&title_color=d16002&text_color=00000&bg_color=00000000&&icon_color=8a3324" alt="vippium" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=default&custom_title=🔥%20My%20GitHub%20Stats&hide_border=false&title_color=d16002&text_color=00000&bg_color=00000000&&icon_color=8a3324" alt="vippium" width="390" />
 </p>
 
 <p align="center">
