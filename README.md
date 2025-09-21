@@ -33,7 +33,7 @@
 ## 📈 Contribution Stats
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats-eight.vercel.app/?user=vippium&theme=shadow-orange&border=e5e2e2&disable_animations=true" alt="Vippium's Streak Chart" width="423"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vippium&theme=blood&border_radius=10&card_width=403&background=EB545400&dates=747474&ring=BB0223&currStreakNum=FFFFFF&sideNums=B2B2B2&currStreakLabel=BB0223&sideLabels=BB0223&fire=FF7D7D" alt="GitHub Streak" /></a>
 </p>
 
 <p>
