@@ -32,16 +32,16 @@
 
 ## 📈 Contribution Stats
 
-<table style="width: 1%; border-collapse: collapse; border: 0px solid #EBEBEB00;">
+<table style="width: 100%; border-collapse: collapse; border: 0px solid #EBEBEB00;">
   <tr style="border: 0.5px solid #cccccc;">
     <td style="width: 1%; text-align: center; border: 0px solid #EBEBEB00;">
       <p>
         <a href="https://git.io/streak-stats">
           <picture>
             <!-- Dark theme image -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=vippium&theme=blood-dark&border_radius=10&card_height=190&card_width=390&fire=FFCA77&background=EB545400&currStreakNum=EFEFEF&ring=BB0223&sideNums=B2B2B2">
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=vippium&theme=blood-dark&hide_border=true&card_height=190&card_width=390&fire=FFCA77&background=EB545400&currStreakNum=EFEFEF&ring=BB0223&sideNums=B2B2B2">
             <!-- Light theme image (or fallback) -->
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=vippium&theme=blood&border_radius=10&card_height=190&card_width=390&background=EBEBEB00&fire=B67522&currStreakNum=000000&sideNums=1C0A0ADC&ring=FF0330&sideLabels=E12A2A" alt="Vippium's GitHub Streak">
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=vippium&theme=blood&hide_border=true&card_height=190&card_width=390&background=EBEBEB00&fire=B67522&currStreakNum=000000&sideNums=1C0A0ADC&ring=FF0330&sideLabels=E12A2A" alt="Vippium's GitHub Streak">
           </picture>
         </a>
       </p>
@@ -51,10 +51,11 @@
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=moltack&custom_title=🏆%20GitHub%20Performance%20Stats&hide_border=false&title_color=FF0330&text_color=EFEFEF&bg_color=00000000&icon_color=FFCA77&show=discussions_started&border_radius=10"
+            srcset="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=moltack&custom_title=🏆%20GitHub%20Performance%20Stats&hide_border=true&title_color=FF0330&text_color=EFEFEF&bg_color=00000000&icon_color=FFCA77&show=discussions_started&border_radius=10"
           />
+          <!-- NEW: Light theme image for GitHub Performance Stats -->
           <img
-            src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=moltack&custom_title=🏆%20GitHub%20Performance%20Stats&hide_border=false&title_color=FF0330&text_color=EFEFEF&bg_color=00000000&icon_color=FFCA77&show=discussions_started&border_radius=10"
+            src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=moltack&custom_title=🏆%20GitHub%20Performance%20Stats&hide_border=true&title_color=FF0330&text_color=000000&bg_color=00000000&icon_color=FFCA77&show=discussions_started&border_radius=10"
             alt="Vippium's GitHub Performance Stats"
             width="400"
           />
@@ -63,6 +64,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
