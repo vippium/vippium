@@ -55,7 +55,7 @@
           />
           <!-- NEW: Light theme image for GitHub Performance Stats -->
           <img
-            src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=moltack&custom_title=🏆%20GitHub%20Performance%20Stats&hide_border=true&title_color=FF0330&text_color=000000&bg_color=00000000&icon_color=FFCA77&show=discussions_started&border_radius=10"
+            src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=moltack&custom_title=🏆%20GitHub%20Performance%20Stats&hide_border=true&title_color=FF0330&text_color=000000&bg_color=00000000&icon_color=B67522&show=discussions_started&border_radius=10"
             alt="Vippium's GitHub Performance Stats"
             width="400"
           />
