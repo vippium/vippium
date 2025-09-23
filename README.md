@@ -39,9 +39,9 @@
         <a href="https://git.io/streak-stats">
           <picture>
             <!-- Dark theme image -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=vippium&theme=blood-dark&hide_border=true&card_height=190&card_width=390&fire=FFCA77&background=EB545400&currStreakNum=EFEFEF&ring=BB0223&sideNums=B2B2B2">
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=vippium&theme=blood-dark&hide_border=true&card_height=190&card_width=390&fire=FFCA77&background=EB545400&currStreakNum=EFEFEF&ring=BB0223&sideNums=B2B2B2">
             <!-- Light theme image (or fallback) -->
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=vippium&theme=blood&hide_border=true&card_height=190&card_width=390&background=EBEBEB00&fire=B67522&currStreakNum=000000&sideNums=1C0A0ADC&ring=FF0330&sideLabels=E12A2A" alt="Vippium's GitHub Streak">
+            <img src="https://github-readme-streak-stats-eight.vercel.app?user=vippium&theme=blood&hide_border=true&card_height=190&card_width=390&background=EBEBEB00&fire=B67522&currStreakNum=000000&sideNums=1C0A0ADC&ring=FF0330&sideLabels=E12A2A" alt="Vippium's GitHub Streak">
           </picture>
         </a>
       </p>
