@@ -1,5 +1,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vippium&label=Profile%20Views%20Count&color=E12A2A&style=for-the-badge&abbreviated=true" alt="vippium" /> </p>
 
+
+![Profile Views](https://profile-views-counter.onrender.com/badge)
+
+
 <h1 align="center">Hi 👋🏼, I'm Vipin Prajapat.</h1>
 <h3 align="center">A Passionate Learner.</h3>
 
