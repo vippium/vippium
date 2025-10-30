@@ -48,16 +48,16 @@
         </a>
       </p>
     </td>
-    <td style="width: 1%; text-align: right; border: 0px solid #EBEBEB00;">
+    <td style="width: 1%; text-align: right; border:0px solid #EBEBEB00;">
       <p>
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=moltack&custom_title=🏆%20GitHub%20Performance%20Stats&hide_border=true&title_color=FF0330&text_color=EFEFEF&bg_color=00000000&icon_color=FFCA77&show=discussions_answered&include_all_commits=true&border_radius=10"
+            srcset="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=moltack&custom_title=🏆%20GitHub%20Performance%20Stats&hide_border=true&title_color=FF0330&text_color=EFEFEF&bg_color=00000000&icon_color=FFCA77&show=discussions_answered,prs_merged&include_all_commits=true&border_radius=10"
           />
           <!-- NEW: Light theme image for GitHub Performance Stats -->
           <img
-            src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=moltack&custom_title=🏆%20GitHub%20Performance%20Stats&hide_border=true&title_color=FF0330&text_color=000000&bg_color=00000000&icon_color=B67522&show=discussions_answered&include_all_commits=true&border_radius=10"
+            src="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=moltack&custom_title=🏆%20GitHub%20Performance%20Stats&hide_border=true&title_color=FF0330&text_color=000000&bg_color=00000000&icon_color=B67522&show=discussions_answered,prs_merged&include_all_commits=true&border_radius=10"
             alt="Vippium's GitHub Performance Stats"
             width="400"
           />
