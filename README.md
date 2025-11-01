@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋🏼, I'm Vipin Prajapat.</h1>
 <h3 align="center">A Passionate Learner.</h3>
 
-<p align="center"> <img src="https://github-profile-trophy-roan.vercel.app/?username=vippium&theme=dark_lover&no-frame=true&no-bg=true&title=-Followers&margin-w=25)" /> </p>
+<p align="center"> <img src="https://github-profile-trophy-roan.vercel.app/?username=vippium&theme=dark_lover&no-frame=true&no-bg=true&margin-w=15)" /> </p>
 
 - 🌱 I’m currently learning **ReactJS.**
 
