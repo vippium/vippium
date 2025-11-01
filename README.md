@@ -1,11 +1,10 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vippium&label=Profile%20Views%20Count&color=E12A2A&style=for-the-badge&abbreviated=true&title=-Reviews,-Followers" alt="vippium" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vippium&label=Profile%20Views%20Count&color=E12A2A&style=for-the-badge&abbreviated=true" alt="vippium" /> </p>
 
 
 <h1 align="center">Hi 👋🏼, I'm Vipin Prajapat.</h1>
 <h3 align="center">A Passionate Learner.</h3>
 
-<p align="center"> <img src="https://github-profile-trophy-roan.vercel.app/?username=vippium&theme=dark_lover&no-frame=true&no-bg=true&margin-w=8)" /> </p>
+<p align="center"> <img src="https://github-profile-trophy-roan.vercel.app/?username=vippium&theme=dark_lover&no-frame=true&no-bg=true&title=-Followers&margin-w=25)" /> </p>
 
 - 🌱 I’m currently learning **ReactJS.**
 
@@ -53,7 +52,7 @@
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=moltack&custom_title=🏆%20GitHub%20Performance%20Stats&hide_border=true&title_color=FF0330&text_color=EFEFEF&bg_color=00000000&icon_color=FFCA77&show=discussions_answered&border_radius=10"
+            srcset="https://github-readme-stats.vercel.app/api?username=vippium&show_icons=true&theme=moltack&custom_title=🏆%20GitHub%20Performance%20Stats&include_all_commits=true&hide_border=true&title_color=FF0330&text_color=EFEFEF&bg_color=00000000&icon_color=FFCA77&show=discussions_answered,prs_merged&border_radius=10"
           />
           <!-- NEW: Light theme image for GitHub Performance Stats -->
           <img
