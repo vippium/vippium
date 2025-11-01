@@ -71,5 +71,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vippium&title_color=000000&color=E12A2A&hide_title=true&height=400&custom_title=Monthly%20Contribution%20Summary&point=E12A2A&radius=1&days=35&bg_color=transparent&hide_border=false&area=true&area_color=FF0330&line=FF0330&order=4" height="230" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vippium&title_color=000000&color=E12A2A&hide_title=true&height=400&custom_title=Monthly%20Contribution%20Summary&point=E12A2A&radius=1&days=20&bg_color=transparent&hide_border=false&area=true&area_color=FF0330&line=FF0330&order=4" height="230" alt="activity-graph" />
 </p>
