@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vippium&label=Profile%20Views%20Count&color=E12A2A&style=for-the-badge&abbreviated=true" alt="vippium" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vippium&label=Profile%20Views%20Count&color=E12A2A&style=for-the-badge&abbreviated=true&title=-Reviews,-Followers" alt="vippium" /> </p>
 
 
 
