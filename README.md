@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://github-profile-trophy-roan.vercel.app/?username=vippium&theme=dark_lover&no-frame=true&no-bg=true&margin-w=15)" /> </p>
 
-- 🌱 I’m currently learning **ReactJS.**
+- 🌱 I’m currently learning **Docker.**
 
 ## 🤝 Connect with Me
 
@@ -28,7 +28,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=c,html,css3,js,nodejs,npm,git,vscode,jupyter,googlecolaboratory,postman,vite,expressjs,tailwindcss,mongodb&radius=90&perline=12" alt="skill-icons" />
+  <img src="https://skills.syvixor.com/api/icons?i=c,html,css3,js,nodejs,react,npm,git,vscode,jupyter,googlecolaboratory,postman,vite,expressjs,tailwindcss,mongodb,swagger&radius=90&perline=12" alt="skill-icons" />
 </p>
 
 <br />
