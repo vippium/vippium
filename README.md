@@ -1,8 +1,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vippium&label=Profile%20Views%20Count&color=E12A2A&style=for-the-badge&abbreviated=true" alt="vippium" /> </p>
 
-![](https://hit.yhype.me/github/profile?account_id=93650504)
-
-
 <h1 align="center">Hi 👋🏼, I'm Vipin Prajapat.</h1>
 <h3 align="center">A Passionate Learner.</h3>
 
@@ -31,7 +28,7 @@
   <img src="https://skills.syvixor.com/api/icons?i=c,html,css3,js,nodejs,react,npm,git,vscode,jupyter,googlecolaboratory,postman,vite,expressjs,tailwindcss,mongodb,swagger&radius=90&perline=12" alt="skill-icons" />
 </p>
 
-<br />
+![](https://hit.yhype.me/github/profile?account_id=93650504)
 
 ## 📈 Contribution Stats
 
