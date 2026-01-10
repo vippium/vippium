@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://github-profile-trophy-roan.vercel.app/?username=vippium&theme=dark_lover&no-frame=true&no-bg=true&margin-w=15)" /> </p>
 
-- 🌱 I’m currently learning **Docker.**
+- 🌱 I’m currently learning **C#** with **ASP.Net**.
 
 ## 🤝 Connect with Me
 
