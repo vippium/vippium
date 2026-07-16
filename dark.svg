@@ -806,7 +806,7 @@ l35 3 0 700 0 700 -265 0 -265 0 -5 -835 -5 -835 -55 -5 c-54 -5 -55 -5 -58
       <path d="M 11 -7 L 5 -7 L 5.6 7 L 11 8.6"/>
     </g>
           </g>
-          <text x="981.0" y="484.0" text-anchor="middle" font-family="SFMono-Regular, Consolas, monospace" font-size="8.5" fill="#AD9B90">HTML</text>
+          <text x="981.0" y="484.0" text-anchor="middle" font-family="SFMono-Regular, Consolas, monospace" font-size="8.5" fill="#AD9B90">HTML5</text>
         </g>
         
         <g opacity="0">
@@ -817,7 +817,7 @@ l35 3 0 700 0 700 -265 0 -265 0 -5 -835 -5 -835 -55 -5 c-54 -5 -55 -5 -58
       <path d="M 3 -9 C -2 -9 -2 -3 -3.5 0 C -2 3 -2 9 3 9"/>
     </g>
           </g>
-          <text x="551.0" y="550.0" text-anchor="middle" font-family="SFMono-Regular, Consolas, monospace" font-size="8.5" fill="#AD9B90">CSS</text>
+          <text x="551.0" y="550.0" text-anchor="middle" font-family="SFMono-Regular, Consolas, monospace" font-size="8.5" fill="#AD9B90">CSS3</text>
         </g>
         
         <g opacity="0">
